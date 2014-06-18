@@ -1,6 +1,6 @@
 {
   "name": "flickr-user-feed",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Returns list of the most recent photos from given user's contacts",
   "main": "index.js",
   "scripts": {
