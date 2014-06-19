@@ -11,7 +11,7 @@ $ npm install flickr-user-feed
 ## Usage
 
 ```js
-var feed = require('flickr-user-feed)({
+var feed = require('flickr-user-feed')({
   key: 'api-key'
 })
 
